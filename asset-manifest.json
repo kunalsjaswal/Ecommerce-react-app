@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-react-app/static/css/main.284caf4d.css",
+    "main.js": "/Ecommerce-react-app/static/js/main.1f78c9bc.js",
+    "static/media/gigi.png": "/Ecommerce-react-app/static/media/gigi.37550d00a05ec6a9170a.png",
+    "static/media/jewelry.png": "/Ecommerce-react-app/static/media/jewelry.cf8263d7bd6e4ef7b048.png",
+    "static/media/zayn2.png": "/Ecommerce-react-app/static/media/zayn2.863eda8111ab9e584958.png",
+    "static/media/electronics.png": "/Ecommerce-react-app/static/media/electronics.36b4baaf65295280ef46.png",
+    "static/media/ShoppingCart.jpg": "/Ecommerce-react-app/static/media/ShoppingCart.3eb7fd7afdaded4dda3e.jpg",
+    "static/media/selectCloth.jpg": "/Ecommerce-react-app/static/media/selectCloth.912614d6f283e2e56b48.jpg",
+    "static/media/payin.jpg": "/Ecommerce-react-app/static/media/payin.5782bacd7499fb248105.jpg",
+    "static/media/favicon2.png": "/Ecommerce-react-app/static/media/favicon2.7c0b91c557695071e063.png",
+    "static/media/Loading_icon.gif": "/Ecommerce-react-app/static/media/Loading_icon.1a32f552ee5280e2aef9.gif",
+    "static/media/emptyCart.png": "/Ecommerce-react-app/static/media/emptyCart.f04d7ce3c799d73fcd06.png",
+    "static/media/sadFace.png": "/Ecommerce-react-app/static/media/sadFace.e52cbdc056a830c31026.png",
+    "index.html": "/Ecommerce-react-app/index.html",
+    "main.284caf4d.css.map": "/Ecommerce-react-app/static/css/main.284caf4d.css.map",
+    "main.1f78c9bc.js.map": "/Ecommerce-react-app/static/js/main.1f78c9bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284caf4d.css",
+    "static/js/main.1f78c9bc.js"
+  ]
+}
